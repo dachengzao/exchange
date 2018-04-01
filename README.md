@@ -1,4 +1,4 @@
-## Exchange
+## exchange
 基于qor修改，不可用于生产环境。
 
 Exchange allows a database to be exported to or imported from a file.
@@ -7,7 +7,9 @@ Data can be optionally validated during import and export.
 
 Data can be optionally processed during import.
 
-[![GoDoc](https://godoc.org/github.com/qor/exchange?status.svg)](https://godoc.org/github.com/qor/exchange)
+## install
+
+	go get github.com/dachengzao/exchange
 
 ## Usage
 
